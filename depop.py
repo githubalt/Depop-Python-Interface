@@ -34,9 +34,9 @@ def generate_uuid(): #device_id
 #---[AWS Hashing]---#
 
 #---[Globals]---#
-DEPOP_CONFIG = open("info.cfg").read().split(":")
-DEPOP_USERNAME = DEPOP_CONFIG[0]
-DEPOP_PASSWORD = DEPOP_CONFIG[1]
+#DEPOP_CONFIG = open("info.cfg").read().split(":")
+#DEPOP_USERNAME = DEPOP_CONFIG[0]
+#DEPOP_PASSWORD = DEPOP_CONFIG[1]
 
 IPHONE_CLIENT_SECRECT = "8ae9346e8c3b560320dc5ba9cb10d1286b4e4a98"
 IPHONE_CLIENT_ID = "09578a881810c82289e5"
